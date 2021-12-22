@@ -48,7 +48,7 @@ Lighthouse вычисляет, каким будет TTI при медленно
 
 ## Материалы
 
-- [Исходный код для аудита **Страница загружается недостаточно быстро в мобильных сетях**](https://github.com/GoogleChrome/lighthouse/blob/master/lighthouse-core/audits/load-fast-enough-for-pwa.js).
+- [Исходный код для аудита **Страница загружается недостаточно быстро в мобильных сетях** (Page load is not fast enough on mobile networks)](https://github.com/GoogleChrome/lighthouse/blob/master/lighthouse-core/audits/load-fast-enough-for-pwa.js).
 - [Основные требования для современного веб-приложения](https://developers.google.com/web/progressive-web-apps/checklist#core).
 - [Процесс визуализации](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/).
 - [С чего начать анализ производительности времени выполнения](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/).
